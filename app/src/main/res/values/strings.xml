@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account? Sign up</string>
+    <string name="enter_email">Enter email..!</string>
+    <string name="enter_password">Enter password..!</string>
+    <string name="enter_username">Enter username...!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_year_name_ex_1st_year">Enter year name..! (ex: 1st year)</string>
+    <string name="enter_name_ex_1st_year">Enter name..! (ex: 1st year)</string>
+    <string name="enter_class_name_ex_1st_class">Enter class name..! (ex: 1st class)</string>
+    <string name="enter_name_ex_science">Enter name..! (Ex: science)</string>
+</resources>

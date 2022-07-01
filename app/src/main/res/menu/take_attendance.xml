@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clear_all"
+        android:title="Clear all" />
+    <item
+        android:id="@+id/present_all"
+        android:title="Present all" />
+    <item
+        android:id="@+id/delete_sheet"
+        android:title="Delete sheet" />
+</menu>
